@@ -1,0 +1,9 @@
+# Конфигурация датасета для YOLO
+path: animals
+train: train/images
+val: val/images
+
+names:
+  0: cat
+  1: dog
+  2: wild
